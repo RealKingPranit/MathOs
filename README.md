@@ -15,6 +15,6 @@ it will not work on idle so work on vs or vscode (with python plugin)
 
 for other os:
 
-go to the packages folder and install the wheel thanks
+open the windows_curses-2.3.2-win_amd64.whl for installation thanks
 
 Wish You an Marry Xmas =D
