@@ -1,6 +1,8 @@
 # MathOs
 By RealKingPranit
 
+TO RUN THIS CLICK MATHOS.BAT FILE TO RUN THANKS
+
 This is a math week model at 22/12/2023 at pacific world school
 
 Marks u say so IDK
