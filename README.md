@@ -1,22 +1,34 @@
 # MathOs
-By RealKingPranit
 
-TO RUN THIS CLICK MATH_OS.BAT FILE TO RUN THANKS
+An interactive Python-based terminal project created for Math Week on December 22, 2023, at Pacific World School.
 
-This is a math week model at 22/12/2023 at pacific world school
+Developed by **RealKingPranit**.
 
-Marks u say so IDK
+---
 
-Main.py is an booting Screen
+## 🚀 Quick Start
 
-You have to install curses for main.py
+To launch the application, double-click the `MATH_OS.BAT` file.
 
-for windows(only): pip install windows-curses
+## ⚙️ Prerequisites & Setup
 
-it will not work on idle so work on vs or vscode (with python plugin)
+> **Note**: This application requires standard terminal handling features and **will not work inside Python IDLE**. Please run it using **Visual Studio Code** (with the Python extension) or **Visual Studio**.
 
-for other os:
+* **Boot File**: `Main.py` serves as the initial startup screen.
+* **Dependency**: Requires the `curses` package for rendering the terminal interface.
 
-open the windows_curses-2.3.2-win_amd64.whl for installation thanks
+## 📦 Installation
 
-Wish You an Marry Xmas =D
+### Windows (`pip`)
+Run the following command in your terminal:
+
+```bash
+pip install windows-curses
+
+Windows (Offline Wheel)
+If installing offline or directly from the local package, run:
+pip install windows_curses-2.3.2-win_amd64.whl
+
+🎄 Wish You a Merry Xmas! =D
+
+(rewriten readme so No Xmas 🎄 ;/ )
