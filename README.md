@@ -24,12 +24,14 @@ Run the following command in your terminal:
 
 ```bash
 pip install windows-curses
+---
 
-Windows (Offline Wheel)
+###Windows (Offline Wheel)
 If installing offline or directly from the local package, run:
+```bash
 pip install windows_curses-2.3.2-win_amd64.whl
 
-
+---
 
 
 ###🎄 Wish You a Merry Xmas! =D
